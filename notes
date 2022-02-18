@@ -1,0 +1,24 @@
+1. forms: is a container for input fields
+
+2. radio buttons:
+   id and for ahould be same
+   name should be same for all input options
+   we can select only one option
+
+3. Alternative to br tag
+   p tag, div
+
+4. Checkboxes :
+   Used for selecting multiple options
+   name can be different for options
+
+5. tables:
+   rowspan and colspan
+   if you want to merge with anpother column or row delete that paricular data.
+
+6. anchor tags
+
+7. To make code in good manner- shift+alt+f
+
+8. emojis: window+>
+   
